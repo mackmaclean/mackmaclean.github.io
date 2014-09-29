@@ -1,0 +1,50 @@
+#header {
+
+position: absolute;
+width: 70%;
+height: 10%;
+background-color: blue;
+top-margin: 10px;
+left-margin: 10px;
+
+}
+
+#blogcontainer {
+  position: absolute;
+  top: 100px;
+  left: 8px;
+
+  width: 70%;
+  height: 75%;
+  background-color: green;
+
+}
+
+.blogback {
+
+  position: relative;
+  height: 95%;
+  width: 98%;
+  background-color: purple;
+  top: 10px;
+  left: 10px;
+}
+
+.para {
+
+
+}
+
+#footer {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+
+  width: 70%;
+  height: 10%;
+  background-color: red;
+  margin-right: auto;
+  margin-left: auto;
+  border: 2px solid black;
+
+}
