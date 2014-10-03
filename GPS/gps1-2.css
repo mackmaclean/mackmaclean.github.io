@@ -1,0 +1,43 @@
+/* include your css here */
+
+      #header {
+        background-color: yellow;
+        text-align: center;
+        font-family:  Verdana;
+        height: 10%;
+        padding-top: 2%;
+        }
+
+      h3 {
+        text-align: center;
+        color:  purple;
+      }
+
+      #footer {
+        background-color: gray;
+        text-align: center;
+        }
+
+      div {
+        border: 1px solid black;
+      }
+
+      div.main.content1 {
+        width: 20%;
+        padding: 5 0 0 5%;
+      }
+
+       div.main.content2 {
+        width: 30%;
+        padding: 0 5%;
+      }
+
+       div.main.content3 {
+        width: 30%;
+        padding: 0 5% 0 0;
+      }
+
+      div.main.reflect {
+        width: 30%;
+        padding: 0 5%;
+      }
